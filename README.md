@@ -2,7 +2,8 @@
 - 👀 I’m interested in Design and simulation
 - 🌱 I’m currently learning COMSOL Multiphysics
 - 💞️ I’m looking to collaborate on Design and simulation project 
-- 📫 How to reach me whatsapp 8198054701
+- 📫 How to reach me puneetlubana1@gmail.com
+- 
 
 <!---
 PuneetKumar2002221/PuneetKumar2002221 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
