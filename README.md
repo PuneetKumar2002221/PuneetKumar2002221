@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Puneet Kumar
-- 👀 I’m interested in Design and simulation
+- 👀 I’m interested in Design(solidworks) and simulation
 - 🌱 I’m currently learning COMSOL Multiphysics
 - 💞️ I’m looking to collaborate on Design and simulation project 
 - 📫 How to reach me puneetlubana1@gmail.com
